@@ -1,0 +1,76 @@
+{
+    "Dermstore_Product":[
+        {
+            "image1":"https://i.postimg.cc/sXDQKWgj/Screenshot-Capture-2024-09-30-15-51-29.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11289609-1715102280309729.jpg",
+            "title":"SkinCeuticals C E Ferulic",
+            "price":"180.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/3w9WywCP/Screenshot-Capture-2024-09-30-15-56-12.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11370303-1025163364587600.jpg",
+            "title":"EltaMD UV Clear SPF-46",
+            "price":"43.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/9MM0yjLz/Screenshot-Capture-2024-09-30-15-57-09.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/12596429-5594867613443995.jpg",
+            "title":"SkinMedica TNS Advanced+ Serum ",
+            "price":"295"
+        },
+        {
+            "image1":"https://i.postimg.cc/xqrdrNnb/Screenshot-Capture-2024-09-30-15-58-33.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11289683-1424866649587504.jpg",
+            "title":"SkinMedica TNS Eye Repair",
+            "price":"106.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/0N5DXFt1/Screenshot-Capture-2024-09-30-15-59-38.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11174178-1945086093829418.jpg",
+            "title":"Paula's Choice SKIN Perfecting",
+            "price":"35.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/Vs0MhjFv/Screenshot-Capture-2024-09-30-16-00-37.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/15449378-2835165186514609.jpg",
+            "title":"Skin Medica HA5 Hydra Collagen",
+            "price":"192.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/W1FQFYmj/Screenshot-Capture-2024-09-30-16-06-44.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11290635-1205102277822399.jpg",
+            "title":"iS Clinical Cleansing Complex",
+            "price":"48.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/JnvTLMgk/Screenshot-Capture-2024-09-30-16-12-18.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11588281-1814883754372942.jpg",
+            "title":"Sunday Riley Good Genes",
+            "price":"122.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/Qdm0Mpws/Screenshot-Capture-2024-09-30-16-13-16.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11290635-1205102277822399.jpg",
+            "title":"SkinCeuticals Triple Lipid",
+            "price":"155"
+        },
+        {
+            "image1":"https://i.postimg.cc/Y9n5L5Pr/Screenshot-Capture-2024-09-30-16-32-06.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/13339906-2104915031289786.jpg",
+            "title":"Revision SkinCare D.E.J",
+            "price":"120.00"
+        },
+        {
+            "image1":"https://i.postimg.cc/9MnkQG4z/Screenshot-Capture-2024-09-30-16-33-55.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/11370312-1475163364560252.jpg",
+            "title":"EltaMD UV Clear SPF-46",
+            "price":"56"
+        },
+        {
+            "image1":"https://i.postimg.cc/43NZKQ31/Screenshot-Capture-2024-09-30-16-36-24.png",
+            "image2":"https://static.thcdn.com/images/small/webp//productimg/original/12956915-1875114920740795.jpg",
+            "title":"ColoreScience Sunforgettable",
+            "price":"54"
+        }
+    ]
+}
